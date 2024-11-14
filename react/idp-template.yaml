@@ -17,7 +17,7 @@ spec:
       required:
         - project_name
       properties:
-        namespace:
+        project_name:
           title: project_name
           type: string
           description: what is the name of the new project in Harness
