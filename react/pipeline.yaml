@@ -1,6 +1,6 @@
 pipeline:
-  name: test
-  identifier: test
+  name: react_app_pipeline
+  identifier: react_app_pipeline
   tags: {}
   template:
     templateRef: reactdeploymenttemplate
