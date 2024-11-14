@@ -1,0 +1,14 @@
+pipeline:
+  name: test
+  identifier: test
+  tags: {}
+  template:
+    templateRef: reactdeploymenttemplate
+    versionLabel: "1"
+    templateInputs:
+      variables:
+        - name: namespace
+          type: String
+          value: <+input>
+  projectIdentifier: default_project
+  orgIdentifier: default
