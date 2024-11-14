@@ -2,7 +2,7 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: Golden Template - React Project & Pipeline
+  name: Golden_Template_React_Project_and_Pipeline
   title: Golden Template - React Project & Pipeline
   description: A templatized project & pipeline for all react apps
   tags:
