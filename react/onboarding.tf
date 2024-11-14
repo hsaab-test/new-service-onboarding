@@ -9,7 +9,7 @@ terraform {
 provider "harness" {
   endpoint         = "https://app.harness.io/gateway"
   account_id       = "Dn2AsSxZSmKVAq-WNhAl_w"
-  platform_api_key = "pat.Dn2AsSxZSmKVAq-WNhAl_w.67366e6e7025915fa2f815d1.JDcs3FyLosDsDL0RDUiR"
+  platform_api_key = "redact"
 }
 
 resource "harness_platform_project" "test" {
